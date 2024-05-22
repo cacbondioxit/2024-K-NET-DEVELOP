@@ -8,3 +8,5 @@
 3주차 "변수와 리스트" 레코드: https://youtu.be/7pQvxD-TrZY
 
 4주차 "문자열, 튜플, 딕셔너리" 레코드: https://youtu.be/PObQcpqFpSc
+
+5주차 "조건문과 반복문" 레코드: https://youtu.be/j8Gqlm2hCmk, https://youtu.be/tFYsdNhbBg0
