@@ -5,14 +5,14 @@
 
 - 6주차의 2부 영상 초반 10분 정도가 화면 공유가 되지 않아 pdf 파일을 펴놓고 음성을 들으시기 바랍니다.
 
-2주차 "파이썬 조감도" 레코드: https://youtu.be/J-mH265K2Es
+2주차 "파이썬 조감도" 레코드: https://youtu.be/J-mH265K2Es(59:16)
 
-3주차 "변수와 리스트" 레코드: https://youtu.be/7pQvxD-TrZY
+3주차 "변수와 리스트" 레코드: https://youtu.be/7pQvxD-TrZY(1:00:45)
 
-4주차 "문자열, 튜플, 딕셔너리" 레코드: https://youtu.be/PObQcpqFpSc
+4주차 "문자열, 튜플, 딕셔너리" 레코드: https://youtu.be/PObQcpqFpSc(59:45)
 
-5주차 "조건문과 반복문" 레코드: https://youtu.be/j8Gqlm2hCmk, https://youtu.be/tFYsdNhbBg0
+5주차 "조건문과 반복문" 레코드: https://youtu.be/j8Gqlm2hCmk(46:11), https://youtu.be/tFYsdNhbBg0(55:47)
 
-6주차 "함수와 모듈" 레코드: https://youtu.be/M5oIf5MJIvQ?si=NI3t_c5NZXrKhTyJ, https://youtu.be/zJQ77tV7GOk?si=hCDKXsKm2Jz3D2nw
+6주차 "함수와 모듈" 레코드: https://youtu.be/M5oIf5MJIvQ?si=NI3t_c5NZXrKhTyJ(47:54), https://youtu.be/zJQ77tV7GOk?si=hCDKXsKm2Jz3D2nw(54:58)
 
-7주차 "클래스와 상속" 레코드: https://youtu.be/SU69INZtAwI?si=qu46qycxlEJMExIx
+7주차 "클래스와 상속" 레코드: https://youtu.be/SU69INZtAwI?si=qu46qycxlEJMExIx(1:00:11)
