@@ -3,7 +3,7 @@
 
 특히 OT(1주차) 이후의 영상들을 링크 소유자에 한하여 유튜브에서 볼 수 있게끔 하고 있습니다.
 
-- 6주차의 2부 영상 초반에 화면 공유가 되지 않아 pdf 파일을 펴놓고 음성을 들으시기 바랍니다.
+- 6주차의 2부 영상 초반 10분 정도가 화면 공유가 되지 않아 pdf 파일을 펴놓고 음성을 들으시기 바랍니다.
 
 2주차 "파이썬 조감도" 레코드: https://youtu.be/J-mH265K2Es
 
@@ -15,4 +15,4 @@
 
 6주차 "함수와 모듈" 레코드: https://youtu.be/M5oIf5MJIvQ?si=NI3t_c5NZXrKhTyJ, https://youtu.be/zJQ77tV7GOk?si=hCDKXsKm2Jz3D2nw
 
-7주차 "클래스와 상속" 레코드:
+7주차 "클래스와 상속" 레코드: https://youtu.be/SU69INZtAwI?si=qu46qycxlEJMExIx
